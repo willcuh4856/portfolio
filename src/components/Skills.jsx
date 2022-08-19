@@ -13,7 +13,7 @@ import SQL from '../assets/nsql.jpeg';
 const html = require('../assets/html.png')
 const Skills = () => {
     return (
-        <div className="w-full h-screen bg-[rgb(250,250,250)]" >
+        <div name='skills' className="w-full h-screen bg-[rgb(250,250,250)]" >
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div >
                     <p className='text-4xl font-bold text-[#041562] inline border-b-4 border-[#B2B1B9]'>Skills</p>
@@ -32,7 +32,7 @@ const Skills = () => {
                             CSS
                         </p>
                     </div>
-                    <div className='shadow-md  shadow-[#B2B1B9] hover:scale-110 duration-500 '>w-full h-screen
+                    <div className='shadow-md  shadow-[#B2B1B9] hover:scale-110 duration-500 '>
                         <img className='w-20 mx-auto' src={JavaScript} alt="HTML Icon" />
                         <p>
                             JavaScript

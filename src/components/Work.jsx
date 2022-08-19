@@ -1,10 +1,10 @@
 import React from 'react'
 import WorkImg from '../assets/workImg.jpeg';
 import realEstate from '../assets/realestate.jpg';
-
+import dailyPage from '../assets/rsz_dailypage.png';
 const Work = () => {
     return (
-        <div className="w-full md:h-screen bg-[#FAFAFA]">
+        <div name='work' className="w-full md:h-screen bg-[#FAFAFA]">
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div className='pb-8'>
                     <p className='text-4xl font-bold text-[#041562] inline border-b-4 border-[#B2B1B9]'>Projects</p>
@@ -12,7 +12,7 @@ const Work = () => {
                 </div>
                 <div className='grid sm:grid-cols-1 md:grid-cols-3 gap-4'>
                     <div
-                        style={{ backgroundImage: `url(${WorkImg})` }}
+                        style={{ backgroundImage: `url(${dailyPage})` }}
                         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
                     >
                         {/* Hover Effects */}

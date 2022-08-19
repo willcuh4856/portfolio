@@ -3,7 +3,7 @@ import WILL from '../assets/will.png'
 
 const About = () => {
     return (
-        <div className="w-full h-screen bg-[rgb(250,250,250)]" >
+        <div name='about' className="w-full h-screen bg-[rgb(250,250,250)]" >
             <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
                 <div >
                     <p className='text-4xl font-bold text-[#041562] inline border-b-4 border-[#B2B1B9]'>About</p>

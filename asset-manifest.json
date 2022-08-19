@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5e77a1d7.css",
-    "main.js": "/portfolio/static/js/main.059a881b.js",
+    "main.css": "/portfolio/static/css/main.22bc47e6.css",
+    "main.js": "/portfolio/static/js/main.591d1168.js",
     "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/rsz_dailypage.png": "/portfolio/static/media/rsz_dailypage.26dba560c9350c4170c9.png",
     "static/media/will.png": "/portfolio/static/media/will.0bb997f4a3776c9d4db2.png",
     "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/newwilllogo.png": "/portfolio/static/media/newwilllogo.a7d2264bab4020e6e565.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -16,11 +18,11 @@
     "static/media/firebase.png": "/portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.5e77a1d7.css.map": "/portfolio/static/css/main.5e77a1d7.css.map",
-    "main.059a881b.js.map": "/portfolio/static/js/main.059a881b.js.map"
+    "main.22bc47e6.css.map": "/portfolio/static/css/main.22bc47e6.css.map",
+    "main.591d1168.js.map": "/portfolio/static/js/main.591d1168.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e77a1d7.css",
-    "static/js/main.059a881b.js"
+    "static/css/main.22bc47e6.css",
+    "static/js/main.591d1168.js"
   ]
 }
